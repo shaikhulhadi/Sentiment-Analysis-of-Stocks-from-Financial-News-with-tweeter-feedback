@@ -14,4 +14,4 @@ My project does not require twitter login information.
 `graph_generation.ipynb` contains code to further analyze the output.
 
 ## Findings
-Our analysis shows that, there is descripancy in only headlines based sentiment analysis and how people react on twitter. This analysis shows that further reserach is required to find a effective way to combine news-headline and social media to properly analyze public sentiment.
+My analysis shows that, there is descripancy in only headlines based sentiment analysis and how people react on twitter. This analysis shows that further reserach is required to find a effective way to combine news-headline and social media to properly analyze public sentiment.
